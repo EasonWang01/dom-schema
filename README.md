@@ -43,14 +43,12 @@ output:
 #searchAllTagWithId
 
 ```
-
-
-```
 var htmlSchema = require('../index.js')
 
 htmlSchema.get('https://github.com/',function(result){
 	console.log(htmlSchema.searchAllTagWithId(result))
 })
+
 ```
 output:
 ```
