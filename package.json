@@ -1,5 +1,5 @@
 {
-  "name": "html-schema",
+  "name": "dom-schema",
   "version": "1.0.0",
   "description": "view html schema",
   "main": "index.js",

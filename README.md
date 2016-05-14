@@ -4,6 +4,15 @@
 ![ezgif com-video-to-gif](https://cloud.githubusercontent.com/assets/11001914/15268411/4341bbe4-1a10-11e6-8123-263156a1e072.gif)
 
 
+#Install
+
+```
+npm install dom-schema
+```
+
+
+#How to use.
+
 #get
 
 ```
