@@ -1,0 +1,27 @@
+{
+  "name": "html-schema",
+  "version": "1.0.0",
+  "description": "view html schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasonWang01/html-schema.git"
+  },
+  "keywords": [
+    "html",
+    "parser",
+    "schema"
+  ],
+  "author": "yicheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EasonWang01/html-schema/issues"
+  },
+  "homepage": "https://github.com/EasonWang01/html-schema#readme",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
