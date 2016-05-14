@@ -64,10 +64,12 @@ htmlSchema.get('https://github.com/',function(result){
 	console.log(htmlSchema.searchAllTagWithClass(result))
 })
 ```
+
 output:
 ```
 all tags with an class attribute
 ```
+
 
 #searchAllTagWithTagName
 
@@ -78,14 +80,18 @@ htmlSchema.get('https://github.com/',function(result){
 	console.log(htmlSchema.searchAllTagWithTagName(result,'script'))
 })
 ```
+
 output:
+
 ```
 all script tags.
 
 You can also change to which tags you want to searching for.
 ```
 
+
 #searchAllTagwithStyle
+
 ```
 var htmlSchema = require('../index.js')
 
@@ -113,3 +119,8 @@ output:
 ```
 output all functions inside
 ```
+
+#LICENSE
+
+
+MIT
